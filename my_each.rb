@@ -2,4 +2,4 @@ def my_each(array)
   yield
 end
 
-my_each(array) {puts [i]}
+my_each {return index}
