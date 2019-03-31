@@ -1,4 +1,4 @@
-def my_each(array)
+def my_each
   yield
 end
 
