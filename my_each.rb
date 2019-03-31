@@ -6,4 +6,5 @@ def my_each(collection)
     new_collection.push
     i+=1
   end
+  new_collection
 end
